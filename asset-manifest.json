@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movieapp/static/css/main.5d814134.chunk.css",
+    "main.js": "/movieapp/static/js/main.ccf4db1a.chunk.js",
+    "main.js.map": "/movieapp/static/js/main.ccf4db1a.chunk.js.map",
+    "runtime-main.js": "/movieapp/static/js/runtime-main.59f1ab48.js",
+    "runtime-main.js.map": "/movieapp/static/js/runtime-main.59f1ab48.js.map",
+    "static/js/2.4cb20358.chunk.js": "/movieapp/static/js/2.4cb20358.chunk.js",
+    "static/js/2.4cb20358.chunk.js.map": "/movieapp/static/js/2.4cb20358.chunk.js.map",
+    "static/js/3.f8b85854.chunk.js": "/movieapp/static/js/3.f8b85854.chunk.js",
+    "static/js/3.f8b85854.chunk.js.map": "/movieapp/static/js/3.f8b85854.chunk.js.map",
+    "index.html": "/movieapp/index.html",
+    "static/css/main.5d814134.chunk.css.map": "/movieapp/static/css/main.5d814134.chunk.css.map",
+    "static/js/2.4cb20358.chunk.js.LICENSE.txt": "/movieapp/static/js/2.4cb20358.chunk.js.LICENSE.txt",
+    "static/media/Gear-0.4s-200px.89d1b6a1.svg": "/movieapp/static/media/Gear-0.4s-200px.89d1b6a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f1ab48.js",
+    "static/js/2.4cb20358.chunk.js",
+    "static/css/main.5d814134.chunk.css",
+    "static/js/main.ccf4db1a.chunk.js"
+  ]
+}
