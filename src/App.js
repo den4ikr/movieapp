@@ -17,7 +17,7 @@ function App() {
       <div className={"container"}>
         <Route path = "/popular" render = { () => <PopularContainer /> } />
         <Route path = "/toprated" render = { () => <TopRatedContainer /> } />
-        <Route exact path = "/" render = { () => <HomeContainer /> } />
+        <Route path = "/movieapp" render = { () => <HomeContainer /> } />
         <Route path = "/preloader" render = { () => <Preloader /> } />
         <Route path = "/search" render = { () => <Search /> } />
       </div>
