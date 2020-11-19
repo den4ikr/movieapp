@@ -1,0 +1,46 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    background-color: #6C757D
+    ;
+    align-items: center;
+}
+
+.drop__down {
+    display: none;
+}
+
+.link__row {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    padding-left: 15px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.title {
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #000;
+    text-decoration: none;
+}
+
+.search {
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .drop__down {
+        display: block;
+    }
+    .link__row {
+        display: none;
+    }
+}

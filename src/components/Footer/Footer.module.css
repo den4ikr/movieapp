@@ -1,0 +1,12 @@
+.row {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.title {
+    color: black;
+    text-transform: uppercase;
+}
