@@ -1,4 +1,4 @@
-import { BrowserRouter, Route } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import './App.css';
 import BlockContainer from './components/Block/BlockContainer';
 import Preloader from './components/Common/Preloder/Preloader';
