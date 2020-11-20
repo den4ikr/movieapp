@@ -32,7 +32,7 @@ const Header = (props) => {
                </NavLink>
             </div>
             <div className = {s.title} >
-               <NavLink to = {"/movieapp"} className = {s.title} >
+               <NavLink to = {"/movieap"} className = {s.title} >
                     moviedb
                </NavLink>
             </div>
